@@ -6,12 +6,17 @@ contributor:
     alias: Beem, Frances M.
     gutenberg_agent_id: '46115'
     url: http://www.gutenberg.org/2009/agents/46115
+covers:
+- cover_type: archival
+  image_path: 67781-h/images/cover.jpg
 creator:
   author:
     agent_name: Fry, Elizabeth Stafford
     gutenberg_agent_id: '54456'
     url: http://www.gutenberg.org/2009/agents/54456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67781#Bully-Bull-Frog-and-His-Home-in-Rainbow-Valley
 gutenberg_issued: '2022-04-06'
 identifiers:
   gutenberg: '67781'
